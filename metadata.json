@@ -1,0 +1,6 @@
+{
+  "name": "News Article Clustering Workbench",
+  "description": "Unsupervised machine learning workspace for textual news clustering using TF-IDF, K-Means, DBSCAN, Hierarchical Agglomerative clustering, and 2D projection visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
